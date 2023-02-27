@@ -11,3 +11,5 @@ The end_game entry point is used by the contract owner to end the game. Before e
 A test scenario is also provided that tests the functionality of the contract. The test scenario includes both valid and invalid test cases for the buy_ticket and end_game entry points.
 
 ![Lottert_dapp pic](https://user-images.githubusercontent.com/84145371/221544063-779b1357-e4f4-466d-aa5f-b3dfd928d146.jpg)
+
+This project Deployed on Ghostnet Testnet.
