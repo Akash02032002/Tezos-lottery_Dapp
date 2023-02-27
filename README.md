@@ -10,7 +10,7 @@ The end_game entry point is used by the contract owner to end the game. Before e
 
 A test scenario is also provided that tests the functionality of the contract. The test scenario includes both valid and invalid test cases for the buy_ticket and end_game entry points.
 
-![Lottert_dapp pic](https://user-images.githubusercontent.com/84145371/221544063-779b1357-e4f4-466d-aa5f-b3dfd928d146.jpg)
+
 
 
 
@@ -23,10 +23,44 @@ https://vercel.com/aksahkumar02032002-gmailcom/tezos-lottery-dapp
 This Project is solved the problem of cheating and fraud in Lottery System.
 By its Decentralised in Nature. After bidding is over,The Winning Amount of Tezos-lottery Cryptocurrency will automatically transferred to the randomly choosen User's Account. Due to Smart Contract written in Smartpy and deployed on Ghostnet Blockchain network. Which is 100% Secure.
 
+
+
+
+STEP-1>
+
 To run this project use command these command after installing
+
 git clone https://github.com/Akash02032002/Tezos-lottery_Dapp.git
+
 npm install
-npm run dev   
+
+![vs code](https://user-images.githubusercontent.com/84145371/221572296-8677379a-ccc8-4e83-bb31-cf42ff9aa89c.jpg)
 
 
+STEP-2>
+
+
+npm run dev 
+
+
+![llottery](https://user-images.githubusercontent.com/84145371/221572346-69c3a917-23ca-4b88-aba4-63e5024b080b.jpg)
+
+
+
+STEP-3>
+
+
+CONNECT THE WALLET WITH TEMPLE WALLET.
+
+
+![Temple wallet](https://user-images.githubusercontent.com/84145371/221572433-119a9f2b-bfae-46c1-a3ce-0734187a52c2.jpg)
+
+
+STEP-4>
+
+
+START BUYING TICKETS.
+
+
+![Lottert_dapp pic](https://user-images.githubusercontent.com/84145371/221544063-779b1357-e4f4-466d-aa5f-b3dfd928d146.jpg)
 
