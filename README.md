@@ -1,5 +1,7 @@
 # Tezos-lottery_Dapp
 
+ <<< UR-HACKTHON >>>
+
 This is a lottery dapp written in smartpy.
 
 This is a SmartPy contract that implements a lottery game. It has two entry points: buy_ticket and end_game.
