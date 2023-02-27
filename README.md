@@ -24,9 +24,9 @@ This Project is solved the problem of cheating and fraud in Lottery System.
 By its Decentralised in Nature. After bidding is over,The Winning Amount of Tezos-lottery Cryptocurrency will automatically transferred to the randomly choosen User's Account. Due to Smart Contract written in Smartpy and deployed on Ghostnet Blockchain network. Which is 100% Secure.
 
 To run this project use command these command after installing
-git clone https://github.com/Akash02032002/College_ID_Project.git
+git clone https://github.com/Akash02032002/Tezos-lottery_Dapp.git
 npm install
 npm run dev   
-npx lite server
+
 
 
