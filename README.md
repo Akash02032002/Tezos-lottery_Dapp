@@ -2,7 +2,7 @@
 
  <<< UR-HACKTHON 2.0 >>>
  
- UR-HACKTHON 2.0 Participation Certificate:-
+<< UR-HACKTHON 2.0 Participation Certificate:- >>
  
  https://certificate.givemycertificate.com/c/45128db0-640b-4494-8baf-a95ed3cea571
  
@@ -10,13 +10,13 @@
  
  ![Akash Certificate Web3ForAll ](https://user-images.githubusercontent.com/84145371/233009217-8c6aafeb-83f4-49e9-a045-585c1ded67e5.png)
 
-UR-HACKTHON 2.0 TEZOS TRACK Third Prize Winner.
+<< UR-HACKTHON 2.0 { TEZOS TRACK } (Third Prize Winner). >>
 
 https://drive.google.com/file/d/1RJo6_eF7GjRK5Uxz-e9v8Y0Xr7MDTwee/view?usp=sharing
 
 ![Screenshot_2023-04-19-13-24-36-164_com miui gallery](https://user-images.githubusercontent.com/84145371/233010285-e4ae6c6f-c88e-4254-a684-4d4d5bf76e15.jpg)
 
-Goodies from Web3ForAll
+<< Goodies recived from Web3ForAll Sponser of UR-HACKTHON 2.0 >>
 
 https://drive.google.com/file/d/1w_27I5jp6A5JwmeUEiS0b5f3ByHGcydw/view?usp=sharing
 
