@@ -1,6 +1,6 @@
 # Tezos-lottery_Dapp
 
- <<< Web3 init-HACKTHON >>>
+ <<< UR-HACKTHON 2.0 >>>
 
 This is a lottery dapp written in smartpy.
 
