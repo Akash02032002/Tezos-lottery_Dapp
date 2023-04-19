@@ -1,6 +1,27 @@
 # Tezos-lottery_Dapp
 
  <<< UR-HACKTHON 2.0 >>>
+ 
+ UR-HACKTHON 2.0 Participation Certificate:-
+ 
+ https://certificate.givemycertificate.com/c/45128db0-640b-4494-8baf-a95ed3cea571
+ 
+ 
+ 
+ ![Akash Certificate Web3ForAll ](https://user-images.githubusercontent.com/84145371/233009217-8c6aafeb-83f4-49e9-a045-585c1ded67e5.png)
+
+UR-HACKTHON 2.0 TEZOS TRACK Third Prize Winner.
+
+https://drive.google.com/file/d/1RJo6_eF7GjRK5Uxz-e9v8Y0Xr7MDTwee/view?usp=sharing
+
+![Screenshot_2023-04-19-13-24-36-164_com miui gallery](https://user-images.githubusercontent.com/84145371/233010285-e4ae6c6f-c88e-4254-a684-4d4d5bf76e15.jpg)
+
+Goodies from Web3ForAll
+
+https://drive.google.com/file/d/1w_27I5jp6A5JwmeUEiS0b5f3ByHGcydw/view?usp=sharing
+
+![Goodies](https://user-images.githubusercontent.com/84145371/233010857-6d7353a7-a2a2-417a-8a1c-3f61a165c1c8.jpg)
+
 
 This is a lottery dapp written in smartpy.
 
@@ -11,8 +32,6 @@ The buy_ticket entry point is used by players to purchase lottery tickets. Befor
 The end_game entry point is used by the contract owner to end the game. Before ending the game, the contract checks if all tickets have been purchased. If so, a winner is picked by generating a random number and selecting a player from the map of players. The winner's address is used to send the entire balance of the contract as a reward. After the reward is sent, the game is reset.
 
 A test scenario is also provided that tests the functionality of the contract. The test scenario includes both valid and invalid test cases for the buy_ticket and end_game entry points.
-
-
 
 
 
@@ -69,7 +88,7 @@ START BUYING TICKETS.
 
 Demo YouTube link:-
 
-https://www.youtube.com/watch?v=_lT1MF-rHDc
+https://www.youtube.com/watch?v=_lT1MF-rHDc&t=2s
 
 
 CONGRATULATION YOU HAVE SUCCESSFULLY DEBUG A DAPP WHICH IS BUILD ON TEZOS ENVIRONMENT.
