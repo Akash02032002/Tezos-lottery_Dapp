@@ -1,6 +1,6 @@
 # Tezos-lottery_Dapp
 
- <<< UR-HACKTHON 2.0 >>>
+ <<< UR-HACKTHON 2.0 // Web3ForAll >>>
  
 << UR-HACKTHON 2.0 Participation Certificate:- >>
  
@@ -33,6 +33,10 @@ https://drive.google.com/file/d/11dz1UE33G5Ca5r71yfwbq0Opa8MrbWgV/view
 << Winner Aunnouncement YouTube Link of Web3ForAll >>
 
   #{ https://youtu.be/KOrwCjQDil4 }
+
+  << Devfolio Project Link :- >>
+
+ #{ https://devfolio.co/projects/tezoslotterydapp-bbef }
 
 
 This is a lottery dapp written in smartpy.
