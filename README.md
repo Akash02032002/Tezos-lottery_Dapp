@@ -30,6 +30,9 @@ https://drive.google.com/file/d/11dz1UE33G5Ca5r71yfwbq0Opa8MrbWgV/view
 ![Certificate (1) (1)_page-0001](https://github.com/Akash02032002/Tezos-lottery_Dapp/assets/84145371/c1f928b9-45a4-4140-93a9-6da82cb014f7)
 
 
+<< Winner Aunnouncement YouTube Link of Web3ForAll >>
+
+![Winner Aunnouncement YouTube Link of Web3ForAll](https://youtu.be/KOrwCjQDil4)
 
 
 This is a lottery dapp written in smartpy.
