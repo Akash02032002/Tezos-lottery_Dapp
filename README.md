@@ -1,4 +1,4 @@
-# Tezos-lottery_Dapp
+[Ur-Hackthon Certificate 2023.pdf](https://github.com/Akash02032002/Tezos-lottery_Dapp/files/12279588/Ur-Hackthon.Certificate.2023.pdf)# Tezos-lottery_Dapp
 
  <<< UR-HACKTHON 2.0 >>>
  
@@ -21,6 +21,13 @@ https://drive.google.com/file/d/1RJo6_eF7GjRK5Uxz-e9v8Y0Xr7MDTwee/view?usp=shari
 https://drive.google.com/file/d/1w_27I5jp6A5JwmeUEiS0b5f3ByHGcydw/view?usp=sharing
 
 ![Goodies](https://user-images.githubusercontent.com/84145371/233010857-6d7353a7-a2a2-417a-8a1c-3f61a165c1c8.jpg)
+
+<< Ur - Hackthon 2023 Winning Certification >>
+
+https://drive.google.com/file/d/11dz1UE33G5Ca5r71yfwbq0Opa8MrbWgV/view
+
+[Ur-Hackthon Certificate 2023.pdf](https://github.com/Akash02032002/Tezos-lottery_Dapp/files/12279589/Ur-Hackthon.Certificate.2023.pdf)
+
 
 
 This is a lottery dapp written in smartpy.
