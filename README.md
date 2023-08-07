@@ -1,11 +1,10 @@
-[Ur-Hackthon Certificate 2023.pdf](https://github.com/Akash02032002/Tezos-lottery_Dapp/files/12279588/Ur-Hackthon.Certificate.2023.pdf)# Tezos-lottery_Dapp
+# Tezos-lottery_Dapp
 
  <<< UR-HACKTHON 2.0 >>>
  
 << UR-HACKTHON 2.0 Participation Certificate:- >>
  
  https://certificate.givemycertificate.com/c/45128db0-640b-4494-8baf-a95ed3cea571
- 
  
  
  ![Akash Certificate Web3ForAll ](https://user-images.githubusercontent.com/84145371/233009217-8c6aafeb-83f4-49e9-a045-585c1ded67e5.png)
@@ -27,6 +26,9 @@ https://drive.google.com/file/d/1w_27I5jp6A5JwmeUEiS0b5f3ByHGcydw/view?usp=shari
 https://drive.google.com/file/d/11dz1UE33G5Ca5r71yfwbq0Opa8MrbWgV/view
 
 [Ur-Hackthon Certificate 2023.pdf](https://github.com/Akash02032002/Tezos-lottery_Dapp/files/12279589/Ur-Hackthon.Certificate.2023.pdf)
+
+![Certificate (1) (1)_page-0001](https://github.com/Akash02032002/Tezos-lottery_Dapp/assets/84145371/c1f928b9-45a4-4140-93a9-6da82cb014f7)
+
 
 
 
